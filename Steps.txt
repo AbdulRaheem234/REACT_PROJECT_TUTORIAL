@@ -1,0 +1,10 @@
+# Step-1 npm create vite
+# Step-2 cd Folder name
+# Step-3 npm run dev
+# Step-4 install Extensions
+## 1. work on App.jsx
+## 2. work on index.css
+# Step-4 create components folder in src folder 
+## create card.jsx file and work 
+## create Navbar.jsx file and work 
+# Step-5 
