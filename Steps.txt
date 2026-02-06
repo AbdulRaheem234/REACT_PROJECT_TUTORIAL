@@ -7,4 +7,5 @@
 # Step-4 create components folder in src folder 
 ## create card.jsx file and work 
 ## create Navbar.jsx file and work 
-# Step-5 
+# Step-5 npm install lucide-react
+# Step-6 
