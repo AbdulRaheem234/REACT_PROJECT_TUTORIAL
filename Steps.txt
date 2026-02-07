@@ -29,3 +29,6 @@ install tailwind css intellisense
 ## create section_1.jsx file in section_1 folder and work
 # Step-11 create section_2 folder in component folder
 ## create section_2.jsx file in section_1 folder and work
+# Step-12 npm install lucide-react use nhi kara hai 
+# Step-13 npm install remixicon --save
+# Step-14 npm install @remixicon/react use nhi kara hai 
