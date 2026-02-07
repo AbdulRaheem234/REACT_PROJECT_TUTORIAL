@@ -16,3 +16,16 @@ install tailwind css intellisense
 ## create Button.jsx file in header folder and work
 ## create Button.module.css file in header folder and work  
 # Step-8 npm install tailwindcss @tailwindcss/vite
+# Step-9 create components folder in ui project
+# Step-10 create section_1 folder in component folder
+## create Arrow.jsx file in section_1 folder and work
+## create HeroText.jsx file in section_1 folder and work
+## create LeftContent.jsx file in section_1 folder and work
+## create Navbar.jsx file in section_1 folder and work
+## create Page1Content.jsx file in section_1 folder and work
+## create RightCard.jsx file in section_1 folder and work
+## create RightCardContent.jsx file in section_1 folder and work
+## create RightContent.jsx file in section_1 folder and work
+## create section_1.jsx file in section_1 folder and work
+# Step-11 create section_2 folder in component folder
+## create section_2.jsx file in section_1 folder and work

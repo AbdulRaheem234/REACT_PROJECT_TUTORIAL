@@ -1,4 +1,4 @@
 function App() {
-  return <div>App</div>;
+  return <div className="h-screen w-full bg-gray-900"></div>;
 }
 export default App;
