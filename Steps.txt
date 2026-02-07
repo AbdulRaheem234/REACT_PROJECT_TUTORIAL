@@ -32,3 +32,4 @@ install tailwind css intellisense
 # Step-12 npm install lucide-react use nhi kara hai 
 # Step-13 npm install remixicon --save
 # Step-14 npm install @remixicon/react use nhi kara hai 
+# Step-15 npm install axios
