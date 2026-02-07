@@ -2,10 +2,17 @@
 # Step-2 cd Folder name
 # Step-3 npm run dev
 # Step-4 install Extensions
-## 1. work on App.jsx
-## 2. work on index.css
+install tailwind css intellisense
+## work on App.jsx
+## work on index.css
 # Step-4 create components folder in src folder 
 ## create card.jsx file and work 
-## create Navbar.jsx file and work 
+## create Navbar.jsx file and work  
 # Step-5 npm install lucide-react
-# Step-6 
+# Step-6 create header folder in component folder
+## create header.jsx file in header folder and work
+## create header.module.css file in header folder and work
+# Step-7 create Button folder in component folder
+## create Button.jsx file in header folder and work
+## create Button.module.css file in header folder and work  
+# Step-8 npm install tailwindcss @tailwindcss/vite
