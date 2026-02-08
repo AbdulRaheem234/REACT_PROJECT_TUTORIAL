@@ -48,3 +48,7 @@ install tailwind css intellisense
 ## create Footer.jsx file in Components folder and work
 ## create Navbar_2.jsx file in Components folder and work
 # Step-18 npm install react-router-dom 
+# Step-19 create Context folder in src folder
+## create ContextTheme.jsx file in Context folder and work
+# Step-20 create component folder i src folder
+## create Button.jsx file in component folder and work

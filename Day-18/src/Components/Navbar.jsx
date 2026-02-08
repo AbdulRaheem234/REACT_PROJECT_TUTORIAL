@@ -1,7 +1,10 @@
-function Navbar() {
+function Navbar({ theme, setTheme }) {
+  function changeTheme() {
+    setTheme(theme === "light" ? "dark" : "light");
+  }
   return (
     <div>
-      <h1>NAVBAR</h1>
+      <button onClick={changeTheme}>Change Theme</button>
     </div>
   );
 }
