@@ -34,9 +34,17 @@ install tailwind css intellisense
 # Step-14 npm install @remixicon/react use nhi kara hai 
 # Step-15 npm install axios
 # Step-16 create pages folder in src folder
+## create Home.jsx file in page folder and work
 ## create About.jsx file in page folder and work
 ## create Contact.jsx file in page folder and work
-## create About.jsx file in page folder and work
-## create Home.jsx file in page folder and work
 ## create Product.jsx file in page folder and work
-# Step-17 npm install react-router-dom
+## create Women.jsx file in page folder and work
+## create NotFound.jsx file in page folder and work
+## create Men.jsx file in page folder and work
+## create CourseDetail.jsx file in page folder and work
+## create Courses.jsx file in page folder and work
+## create Kids.jsx file in page folder and work
+# Step-17 create Components folder in src folder
+## create Footer.jsx file in Components folder and work
+## create Navbar_2.jsx file in Components folder and work
+# Step-18 npm install react-router-dom 
